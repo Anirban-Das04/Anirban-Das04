@@ -5,10 +5,6 @@
   <em>Building clean user interfaces & turning data into meaningful insights</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anirba-Das04&label=Profile%20views&color=blue&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -25,3 +21,9 @@
 - ⚡ Use AI tools like **ChatGPT, Claude, Perplexity**
 - 🖥️ Comfortable with **Bash & Terminal**
 - 🌱 Currently learning and improving every day
+---
+## 🛰️ Connect with Me
+
+🌐 Portfolio: https://anirban-portfolio-nine.vercel.app/  
+📧 Email:  anirban.0009254@gmail.com
+
